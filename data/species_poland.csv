@@ -1,0 +1,11 @@
+speciesKey,scientificName,vernacularName,kingdom,phylum,class,order,family,genus,observationCount
+1,Homo sapiens,Human,Animalia,Chordata,Mammalia,Primates,Hominidae,Homo,118
+3,Felis catus,Cat,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,110
+10,Erinaceus europaeus,European Hedgehog,Animalia,Chordata,Mammalia,Eulipotyphla,Erinaceidae,Erinaceus,107
+5,Capreolus capreolus,Roe Deer,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Capreolus,107
+8,Meles meles,European Badger,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Meles,100
+6,Lepus europaeus,European Hare,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,96
+7,Vulpes vulpes,Red Fox,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,94
+4,Sus scrofa,Wild Boar,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,94
+9,Sciurus vulgaris,Red Squirrel,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,91
+2,Canis lupus,Wolf,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,83
